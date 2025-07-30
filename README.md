@@ -22,7 +22,7 @@ An interactive Business Intelligence dashboard that provides key sales insights 
 ---
 
 ## 📁 Dataset
-Dataset used: sales.xlsx
+Dataset used: 
 
 ---
 
