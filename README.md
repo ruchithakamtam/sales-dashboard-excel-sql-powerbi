@@ -22,7 +22,7 @@ An interactive Business Intelligence dashboard that provides key sales insights 
 ---
 
 ## 📁 Dataset
-Dataset used: 
+Dataset used: "C:\Users\nikhi\OneDrive\Desktop\sales.xlsx"
 
 ---
 
