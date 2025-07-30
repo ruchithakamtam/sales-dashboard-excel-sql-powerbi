@@ -22,7 +22,7 @@ An interactive Business Intelligence dashboard that provides key sales insights 
 ---
 
 ## 📁 Dataset
-Dataset used: [Superstore Sales Dataset](https://www.kaggle.com/datasets/)
+Dataset used: 
 
 ---
 
