@@ -1,51 +1,19 @@
-# 🛒 Sales Dashboard – Excel, SQL & Power BI
+# 📊 Sales Dashboard
 
-An interactive Business Intelligence dashboard that provides key sales insights using Excel for cleaning, SQL for querying, and Power BI for visualizing the data.
+An interactive sales dashboard built with **Streamlit** and **Plotly**.
 
----
+## 🚀 Features
+- Filter by Region and Salesperson
+- Key Metrics: Total Sales, Units Sold, Unique Products
+- Visualizations: Bar chart, Line chart, Pie chart
+- Interactive table view
 
-## 🔧 Tools & Technologies Used
-- Microsoft Excel (Data Cleaning)
-- MySQL (Data Querying)
-- Power BI (Dashboard Visualization)
-- DAX (Measures & Calculations)
+## 📁 Files
+- `sales_data.csv` — Sample sales data
+- `sales_dashboard.py` — Streamlit app
 
----
+## ▶️ How to Run
 
-## 📊 Key Features
-- KPIs: Total Sales, Total Profit, Quantity Sold
-- Category and Sub-Category breakdown
-- Regional Sales Analysis (West, East, Central, South)
-- Monthly Trends & Top Products
-- Slicers for Category, Region, and Date filters
-
----
-
-## 📁 Dataset
-Dataset used: "C:\Users\nikhi\OneDrive\Desktop\sales.xlsx"
-
----
-
-## 📷 Dashboard Preview
-
-![Dashboard Screenshot](dashboard-screenshot.png)
-
----
-
-## 🚀 Live Preview
-[🔗 View Dashboard on Power BI Public](https://app.powerbi.com/view?r=your-link)
-
----
-
-## 📘 What I Learned
-- Data cleaning and formatting using Excel functions
-- Writing complex SQL queries with joins and aggregations
-- Creating measures and visual elements in Power BI
-- Building interactive reports with real business value
-
----
-
-## 👩‍💻 Author
-**Ruchitha Kamtam**  
-📧 kamtamruchitha0325@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/kamtam-ruchitha-52a57429a)  
+### 1. Install requirements
+```bash
+pip install streamlit pandas plotly
